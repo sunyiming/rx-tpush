@@ -1,5 +1,6 @@
 <prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service">
   <intent-filter>
-    <action name="com.tencent.android.tpush.XGPushReceiver" />
+    <action name="com.tencent.android.tpush.XGPushReceiver.action.SDK" />
+    <action name="com.tencent.android.tpush.XGPushReceiver.action.INTERNAL_PUSH_MESSAGE" />
   </intent-filter>
 </prescription>
