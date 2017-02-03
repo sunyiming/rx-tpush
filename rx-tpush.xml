@@ -4,5 +4,7 @@
     <action name="com.tencent.android.tpush.action.FEEDBACK" />
     <action name="com.tencent.android.tpush.action.PUSH_MESSAGE" />
     <action name="com.tencent.android.tpush.action.INTERNAL_PUSH_MESSAGE" />
+    <action name="com.tencent.android.tpush.service.XGPushService" />
+    <action name="com.tencent.android.tpush.rpc.XGRemoteService" />
   </intent-filter>
 </prescription>
